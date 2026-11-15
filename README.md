@@ -13,9 +13,9 @@
 **Modelos:** `GaussianNB`, `DecisionTree`, `RandomForest`, `SVM`, `LinearRegression`, `Ridge`, `HistGradientBoosting`, `SHAP`
 
 **Enlaces:**
-- 💻 Código (notebook): [`notebooks/EDA_ML_Ecommerce_US_B1.ipynb`](notebooks/EDA_ML_Ecommerce_US_B1.ipynb) · [Abrir en Colab](https://colab.research.google.com/github/TU_USUARIO/ml-satisfaccion-ecommerce-us/blob/main/notebooks/EDA_ML_Ecommerce_US_B1.ipynb)
+- 💻 Código (notebook): [`notebooks/EDA_ML_Ecommerce_US_B1.ipynb`](notebooks/EDA_ML_Ecommerce_US_B1.ipynb) · [Abrir en Colab](https://colab.research.google.com/github/nothave28-oss/ml-satisfaccion-ecommerce-us/blob/main/notebooks/EDA_ML_Ecommerce_US_B1.ipynb)
 - 🎥 Video: **PEGAR_LINK_DEL_VIDEO**
-- 📦 Repositorio: https://github.com/TU_USUARIO/ml-satisfaccion-ecommerce-us
+- 📦 Repositorio: https://github.com/nothave28-oss/ml-satisfaccion-ecommerce-us
 - 🎨 Presentación (Canva): https://canva.link/wnvmyavlbp4ymal
 
 ---
