@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner del proyecto" width="800" height="300">
+  <img src="banner.png" alt="Banner del proyecto" width="800" height="300">
 </p>
 
 # Predicción de la satisfacción del cliente en E-Commerce U.S. (2019–2025)
